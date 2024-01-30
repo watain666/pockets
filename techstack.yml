@@ -1,0 +1,601 @@
+repo_name: watain666/pockets
+report_id: e5137bc631c649834e3f90af7b9b2ec7
+version: 0.1
+repo_type: Public
+timestamp: '2024-01-30T02:19:26+00:00'
+requested_by: ProQuestionAsker
+provider: github
+branch: master
+detected_tools_count: 43
+tools:
+- name: ES6
+  description: The next version of JavaScript
+  website_url: http://www.ecma-international.org/ecma-262/6.0/
+  version: 6.24.1
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4109/16407404782_8b9c57eab3.jpg
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/watain666/pockets
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/watain666/pockets
+  detection_source: Repo Metadata
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: ".babelrc"
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/watain666/pockets
+  detection_source: Repo Metadata
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.13.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 4.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp
+  description: The streaming build system
+  website_url: http://gulpjs.com/
+  version: 3.9.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/844/iruTC031.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: superagent library
+  description: robust and clean node and browser reqest library
+  website_url: https://visionmedia.github.io/superagent/
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8032/pBeeJQDQ_normal.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: babel-core
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/babel-core
+  version: 6.26.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15798/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 7.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: babel-plugin-transform-object-rest-spread
+  description: Compile object rest and spread to ES5
+  package_url: https://www.npmjs.com/babel-plugin-transform-object-rest-spread
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15880/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: babel-preset-env
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/babel-preset-env
+  version: 1.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15814/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: babel-preset-stage-1
+  description: Babel preset for stage 1 plugins
+  package_url: https://www.npmjs.com/babel-preset-stage-1
+  version: 6.24.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16071/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: babel-register
+  description: Babel require hook
+  package_url: https://www.npmjs.com/babel-register
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15865/default_3af1504b6f77c55205ba630fe08c472f43b95f6e.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: browser-sync
+  description: Live CSS Reload &amp; Browser Syncing
+  package_url: https://www.npmjs.com/browser-sync
+  version: 2.24.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16034/default_a9b6ac3c2fe43713f9a8e43d4668d0352ad0d247.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: del
+  description: Delete files and directories
+  package_url: https://www.npmjs.com/del
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15907/default_a582b9fecca65f37fe68520c8f84d3bcae35db24.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: eslint-config-airbnb-base
+  description: Airbnb's base JS ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb-base
+  version: 13.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15888/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 2.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.13.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 2.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-autoprefixer
+  description: Prefix CSS
+  package_url: https://www.npmjs.com/gulp-autoprefixer
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16090/default_8725384794b44fe56f31da1d21ae759cf07be7a5.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-clean-css
+  description: Minify css with clean-css
+  package_url: https://www.npmjs.com/gulp-clean-css
+  version: 3.9.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16301/default_3b7197abc4df3d7fa7c5292f17b2e6fb0cd1c8d4.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-htmlmin
+  description: Gulp plugin to minify HTML
+  package_url: https://www.npmjs.com/gulp-htmlmin
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16821/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-notify
+  description: Gulp plugin to send messages based on Vinyl Files or Errors to Mac
+    OS X, Linux or Windows using the node-notifier module
+  package_url: https://www.npmjs.com/gulp-notify
+  version: 3.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16337/default_19913b5a2ce8aaeed5a69f95974f9afd07e8e8bc.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-plumber
+  description: Prevent pipe breaking caused by errors from gulp plugins
+  package_url: https://www.npmjs.com/gulp-plumber
+  version: 1.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16033/default_72d4237e6719b7d75d0307bf8b5718584fdc3425.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-rename
+  description: Rename files
+  package_url: https://www.npmjs.com/gulp-rename
+  version: 1.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15895/default_e4668902f8489350db9b0fb228523a571ef05b26.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-replace
+  description: A string replace plugin for gulp
+  package_url: https://www.npmjs.com/gulp-replace
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16150/default_73326c44fbfa7369fd17573edb113e5d849468bc.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-sourcemaps
+  description: Source map support for Gulp.js
+  package_url: https://www.npmjs.com/gulp-sourcemaps
+  version: 2.6.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15958/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-stylus
+  description: Stylus plugin for gulp
+  package_url: https://www.npmjs.com/gulp-stylus
+  version: 2.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16928/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: gulp-util
+  description: Utility functions for gulp plugins
+  package_url: https://www.npmjs.com/gulp-util
+  version: 3.0.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15912/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: intersection-observer
+  description: A polyfill for IntersectionObserver
+  package_url: https://www.npmjs.com/intersection-observer
+  version: 0.5.0
+  license: W3C-20150513
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17476/default_a58bf1eaa94db61dd00126cc62306474c5213d3b.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-08-02 21:22:18.000000000 Z
+- name: lodash.debounce
+  description: The lodash method `_.debounce` exported as a module
+  package_url: https://www.npmjs.com/lodash.debounce
+  version: 4.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16481/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: promise-polyfill
+  description: Lightweight promise polyfill. A+ compliant
+  package_url: https://www.npmjs.com/promise-polyfill
+  version: 8.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16882/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: request
+  description: Simplified HTTP request client
+  package_url: https://www.npmjs.com/request
+  version: 2.87.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15823/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+  vulnerabilities:
+  - name: Server-Side Request Forgery in Request
+    cve_id: CVE-2023-28155
+    cve_url: https://github.com/advisories/GHSA-p8p7-x288-28g6
+    detected_date: Mar 17
+    severity: moderate
+    first_patched: 
+- name: require-dir
+  description: Helper to require
+  package_url: https://www.npmjs.com/require-dir
+  version: 1.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16293/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: run-sequence
+  description: Run a series of dependent gulp tasks in order
+  package_url: https://www.npmjs.com/run-sequence
+  version: 2.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16004/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: source-map
+  description: Generates and consumes source maps
+  package_url: https://www.npmjs.com/source-map
+  version: 0.7.3
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16339/default_97104dc50154593d2dde1d791400955934c9c715.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: superagent
+  description: Elegant &amp; feature rich browser / node HTTP with a fluent API
+  package_url: https://www.npmjs.com/superagent
+  version: 3.8.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16046/default_939338dc71400138c5e4a3464e041bf30f8f82ba.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: uglifyjs-webpack-plugin
+  description: UglifyJS plugin for webpack
+  package_url: https://www.npmjs.com/uglifyjs-webpack-plugin
+  version: 1.2.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15953/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
+- name: webpack-stream
+  description: Run webpack as a stream
+  package_url: https://www.npmjs.com/webpack-stream
+  version: 4.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16467/default_89ba91277e3434b03295bb11d22736632df1d04f.png
+  detection_source_url: https://github.com/watain666/pockets/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Amber Thomas
+  last_updated_on: 2018-07-16 18:11:48.000000000 Z
